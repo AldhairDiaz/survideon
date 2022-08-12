@@ -1,0 +1,1000 @@
+
+Nombre oficial: Independent State of Papua New Guinea
+Region: Oceania
+Poblacion: 8947027
+
+Nombre oficial: Bouvet Island
+Region: Antarctic
+Poblacion: 0
+
+Nombre oficial: Heard Island and McDonald Islands
+Region: Antarctic
+Poblacion: 0
+
+Nombre oficial: Martinique
+Region: Americas
+Poblacion: 378243
+
+Nombre oficial: Republic of North Macedonia
+Region: Europe
+Poblacion: 2077132
+
+Nombre oficial: Niue
+Region: Oceania
+Poblacion: 1470
+
+Nombre oficial: People's Republic of China
+Region: Asia
+Poblacion: 1402112000
+
+Nombre oficial: Kingdom of Lesotho
+Region: Africa
+Poblacion: 2142252
+
+Nombre oficial: Country of Curaçao
+Region: Americas
+Poblacion: 155014
+
+Nombre oficial: United Mexican States
+Region: Americas
+Poblacion: 128932753
+
+Nombre oficial: Republic of Haiti
+Region: Americas
+Poblacion: 11402533
+
+Nombre oficial: Kingdom of Thailand
+Region: Asia
+Poblacion: 69799978
+
+Nombre oficial: Republic of Palau
+Region: Oceania
+Poblacion: 18092
+
+Nombre oficial: Malaysia
+Region: Asia
+Poblacion: 32365998
+
+Nombre oficial: United States Minor Outlying Islands
+Region: Americas
+Poblacion: 300
+
+Nombre oficial: Independent State of Samoa
+Region: Oceania
+Poblacion: 198410
+
+Nombre oficial: Lebanese Republic
+Region: Asia
+Poblacion: 6825442
+
+Nombre oficial: Republic of Cuba
+Region: Americas
+Poblacion: 11326616
+
+Nombre oficial: Antigua and Barbuda
+Region: Americas
+Poblacion: 97928
+
+Nombre oficial: Iceland
+Region: Europe
+Poblacion: 366425
+
+Nombre oficial: Islamic Republic of Afghanistan
+Region: Asia
+Poblacion: 40218234
+
+Nombre oficial: State of Eritrea
+Region: Africa
+Poblacion: 5352000
+
+Nombre oficial: Republic of India
+Region: Asia
+Poblacion: 1380004385
+
+Nombre oficial: Republic of Paraguay
+Region: Americas
+Poblacion: 7132530
+
+Nombre oficial: Ukraine
+Region: Europe
+Poblacion: 44134693
+
+Nombre oficial: Republic of Seychelles
+Region: Africa
+Poblacion: 98462
+
+Nombre oficial: Cayman Islands
+Region: Americas
+Poblacion: 65720
+
+Nombre oficial: People's Democratic Republic of Algeria
+Region: Africa
+Poblacion: 510713
+
+Nombre oficial: Republic of Guinea
+Region: Africa
+Poblacion: 13132792
+
+Nombre oficial: Republic of Zambia
+Region: Africa
+Poblacion: 18383956
+
+Nombre oficial: Kingdom of Bahrain
+Region: Asia
+Poblacion: 1701583
+
+Nombre oficial: Republic of the Union of Myanmar
+Region: Asia
+Poblacion: 54409794
+
+Nombre oficial: Federal Democratic Republic of Ethiopia
+Region: Africa
+Poblacion: 114963583
+
+Nombre oficial: Republic of South Sudan
+Region: Africa
+Poblacion: 11193729
+
+Nombre oficial: Territory of the Cocos (Keeling) Islands
+Region: Oceania
+Poblacion: 544
+
+Nombre oficial: Republic of Malta
+Region: Europe
+Poblacion: 525285
+
+Nombre oficial: Republic of Malawi
+Region: Africa
+Poblacion: 19129955
+
+Nombre oficial: Hashemite Kingdom of Jordan
+Region: Asia
+Poblacion: 10203140
+
+Nombre oficial: Barbados
+Region: Americas
+Poblacion: 287371
+
+Nombre oficial: Republic of Indonesia
+Region: Asia
+Poblacion: 273523621
+
+Nombre oficial: Kyrgyz Republic
+Region: Asia
+Poblacion: 6591600
+
+Nombre oficial: Republic of Equatorial Guinea
+Region: Africa
+Poblacion: 1402985
+
+Nombre oficial: Bosnia and Herzegovina
+Region: Europe
+Poblacion: 3280815
+
+Nombre oficial: Collectivity of Saint Barthélemy
+Region: Americas
+Poblacion: 4255
+
+Nombre oficial: Czech Republic
+Region: Europe
+Poblacion: 10698896
+
+Nombre oficial: Democratic Republic of Timor-Leste
+Region: Asia
+Poblacion: 1318442
+
+Nombre oficial: Republic of Fiji
+Region: Oceania
+Poblacion: 896444
+
+Nombre oficial: Tokelau
+Region: Oceania
+Poblacion: 1411
+
+Nombre oficial: Republic of Lithuania
+Region: Europe
+Poblacion: 2794700
+
+Nombre oficial: Federal Republic of Somalia
+Region: Africa
+Poblacion: 15893219
+
+Nombre oficial: Georgia
+Region: Asia
+Poblacion: 3714000
+
+Nombre oficial: Republic of Zimbabwe
+Region: Africa
+Poblacion: 14862927
+
+Nombre oficial: Solomon Islands
+Region: Oceania
+Poblacion: 686878
+
+Nombre oficial: Republic of Ecuador
+Region: Americas
+Poblacion: 17643060
+
+Nombre oficial: Gibraltar
+Region: Europe
+Poblacion: 33691
+
+Nombre oficial: Sultanate of Oman
+Region: Asia
+Poblacion: 5106622
+
+Nombre oficial: Islamic Republic of Mauritania
+Region: Africa
+Poblacion: 4649660
+
+Nombre oficial: Hong Kong Special Administrative Region of the People's Republic of China
+Region: Asia
+Poblacion: 7500700
+
+Nombre oficial: Republic of Cabo Verde
+Region: Africa
+Poblacion: 555988
+
+Nombre oficial: Republic of Peru
+Region: Americas
+Poblacion: 32971846
+
+Nombre oficial: Republic of Yemen
+Region: Asia
+Poblacion: 29825968
+
+Nombre oficial: Commonwealth of Puerto Rico
+Region: Americas
+Poblacion: 3194034
+
+Nombre oficial: Gabonese Republic
+Region: Africa
+Poblacion: 2225728
+
+Nombre oficial: Commonwealth of Australia
+Region: Oceania
+Poblacion: 25687041
+
+Nombre oficial: Republic of the Marshall Islands
+Region: Oceania
+Poblacion: 59194
+
+Nombre oficial: Mongolia
+Region: Asia
+Poblacion: 3278292
+
+Nombre oficial: Democratic Republic of São Tomé and Príncipe
+Region: Africa
+Poblacion: 219161
+
+Nombre oficial: Republic of El Salvador
+Region: Americas
+Poblacion: 6486201
+
+Nombre oficial: Commonwealth of the Northern Mariana Islands
+Region: Oceania
+Poblacion: 57557
+
+Nombre oficial: Republic of Uzbekistan
+Region: Asia
+Poblacion: 34232050
+
+Nombre oficial: Republic of Burundi
+Region: Africa
+Poblacion: 11890781
+
+Nombre oficial: Republic of Chad
+Region: Africa
+Poblacion: 16425859
+
+Nombre oficial: Kingdom of Cambodia
+Region: Asia
+Poblacion: 16718971
+
+Nombre oficial: Åland Islands
+Region: Europe
+Poblacion: 29458
+
+Nombre oficial: Antarctica
+Region: Antarctic
+Poblacion: 1000
+
+Nombre oficial: Arab Republic of Egypt
+Region: Africa
+Poblacion: 102334403
+
+Nombre oficial: Oriental Republic of Uruguay
+Region: Americas
+Poblacion: 3473727
+
+Nombre oficial: Republic of Guatemala
+Region: Americas
+Poblacion: 16858333
+
+Nombre oficial: Kingdom of Spain
+Region: Europe
+Poblacion: 47351567
+
+Nombre oficial: Republic of Senegal
+Region: Africa
+Poblacion: 16743930
+
+Nombre oficial: South Georgia and the South Sandwich Islands
+Region: Antarctic
+Poblacion: 30
+
+Nombre oficial: State of Qatar
+Region: Asia
+Poblacion: 2881060
+
+Nombre oficial: Republic of Estonia
+Region: Europe
+Poblacion: 1331057
+
+Nombre oficial: Federal Democratic Republic of Nepal
+Region: Asia
+Poblacion: 29136808
+
+Nombre oficial: Republic of Cyprus
+Region: Europe
+Poblacion: 1207361
+
+Nombre oficial: Plurinational State of Bolivia
+Region: Americas
+Poblacion: 11673029
+
+Nombre oficial: Montenegro
+Region: Europe
+Poblacion: 621718
+
+Nombre oficial: Portuguese Republic
+Region: Europe
+Poblacion: 10305564
+
+Nombre oficial: Central African Republic
+Region: Africa
+Poblacion: 4829764
+
+Nombre oficial: Swiss Confederation
+Region: Europe
+Poblacion: 8654622
+
+Nombre oficial: Republic of Slovenia
+Region: Europe
+Poblacion: 2100126
+
+Nombre oficial: United Arab Emirates
+Region: Asia
+Poblacion: 9890400
+
+Nombre oficial: Republic of the Congo
+Region: Africa
+Poblacion: 89561404
+
+Nombre oficial: Canada
+Region: Americas
+Poblacion: 38005238
+
+Nombre oficial: United Kingdom of Great Britain and Northern Ireland
+Region: Europe
+Poblacion: 67215293
+
+Nombre oficial: Federative Republic of Brazil
+Region: Americas
+Poblacion: 212559409
+
+Nombre oficial: Republic of Botswana
+Region: Africa
+Poblacion: 2351625
+
+Nombre oficial: Republic of Cameroon
+Region: Africa
+Poblacion: 26545864
+
+Nombre oficial: Republic of Korea
+Region: Asia
+Poblacion: 51780579
+
+Nombre oficial: Anguilla
+Region: Americas
+Poblacion: 13452
+
+Nombre oficial: Republic of Singapore
+Region: Asia
+Poblacion: 5685807
+
+Nombre oficial: Republic of the Maldives
+Region: Asia
+Poblacion: 540542
+
+Nombre oficial: New Zealand
+Region: Oceania
+Poblacion: 5084300
+
+Nombre oficial: Republic of Ireland
+Region: Europe
+Poblacion: 4994724
+
+Nombre oficial: Republic of Ghana
+Region: Africa
+Poblacion: 31072945
+
+Nombre oficial: Republic of Benin
+Region: Africa
+Poblacion: 12123198
+
+Nombre oficial: Republic of Armenia
+Region: Asia
+Poblacion: 2963234
+
+Nombre oficial: Republic of Nauru
+Region: Oceania
+Poblacion: 10834
+
+Nombre oficial: Pitcairn Group of Islands
+Region: Oceania
+Poblacion: 56
+
+Nombre oficial: Togolese Republic
+Region: Africa
+Poblacion: 8278737
+
+Nombre oficial: Commonwealth of Dominica
+Region: Americas
+Poblacion: 71991
+
+Nombre oficial: Union of the Comoros
+Region: Africa
+Poblacion: 869595
+
+Nombre oficial: State of Israel
+Region: Asia
+Poblacion: 9216900
+
+Nombre oficial: Co-operative Republic of Guyana
+Region: Americas
+Poblacion: 786559
+
+Nombre oficial: Federation of Saint Christopher and Nevis
+Region: Americas
+Poblacion: 53192
+
+Nombre oficial: Virgin Islands
+Region: Americas
+Poblacion: 30237
+
+Nombre oficial: State of Palestine
+Region: Asia
+Poblacion: 4803269
+
+Nombre oficial: Department of Mayotte
+Region: Africa
+Poblacion: 226915
+
+Nombre oficial: Syrian Arab Republic
+Region: Asia
+Poblacion: 17500657
+
+Nombre oficial: Tuvalu
+Region: Oceania
+Poblacion: 11792
+
+Nombre oficial: Svalbard og Jan Mayen
+Region: Europe
+Poblacion: 2562
+
+Nombre oficial: Republic of China (Taiwan)
+Region: Asia
+Poblacion: 23503349
+
+Nombre oficial: United States of America
+Region: Americas
+Poblacion: 329484123
+
+Nombre oficial: Turks and Caicos Islands
+Region: Americas
+Poblacion: 38718
+
+Nombre oficial: Argentine Republic
+Region: Americas
+Poblacion: 45376763
+
+Nombre oficial: Democratic Republic of the Congo
+Region: Africa
+Poblacion: 89561404
+
+Nombre oficial: Bolivarian Republic of Venezuela
+Region: Americas
+Poblacion: 28435943
+
+Nombre oficial: Sahrawi Arab Democratic Republic
+Region: Africa
+Poblacion: 510713
+
+Nombre oficial: Aruba
+Region: Americas
+Poblacion: 106766
+
+Nombre oficial: Italian Republic
+Region: Europe
+Poblacion: 59554023
+
+Nombre oficial: Lao People's Democratic Republic
+Region: Asia
+Poblacion: 7275556
+
+Nombre oficial: Republic of Austria
+Region: Europe
+Poblacion: 8917205
+
+Nombre oficial: Belize
+Region: Americas
+Poblacion: 397621
+
+Nombre oficial: Bermuda
+Region: Americas
+Poblacion: 63903
+
+Nombre oficial: Republic of the Sudan
+Region: Africa
+Poblacion: 43849269
+
+Nombre oficial: Slovak Republic
+Region: Europe
+Poblacion: 5458827
+
+Nombre oficial: Republic of Côte d'Ivoire
+Region: Africa
+Poblacion: 26378275
+
+Nombre oficial: Republic of Mali
+Region: Africa
+Poblacion: 20250834
+
+Nombre oficial: Republic of Finland
+Region: Europe
+Poblacion: 5530719
+
+Nombre oficial: Republic of the Gambia
+Region: Africa
+Poblacion: 2416664
+
+Nombre oficial: Republic of Chile
+Region: Americas
+Poblacion: 19116209
+
+Nombre oficial: Greenland
+Region: Americas
+Poblacion: 56367
+
+Nombre oficial: Democratic Socialist Republic of Sri Lanka
+Region: Asia
+Poblacion: 21919000
+
+Nombre oficial: Guadeloupe
+Region: Americas
+Poblacion: 400132
+
+Nombre oficial: Guiana
+Region: Americas
+Poblacion: 254541
+
+Nombre oficial: Territory of the Wallis and Futuna Islands
+Region: Oceania
+Poblacion: 11750
+
+Nombre oficial: Bailiwick of Guernsey
+Region: Europe
+Poblacion: 62999
+
+Nombre oficial: Republic of Kosovo
+Region: Europe
+Poblacion: 1775378
+
+Nombre oficial: Republic of Colombia
+Region: Americas
+Poblacion: 50882884
+
+Nombre oficial: Republic of Mozambique
+Region: Africa
+Poblacion: 31255435
+
+Nombre oficial: Republic of Liberia
+Region: Africa
+Poblacion: 5057677
+
+Nombre oficial: British Indian Ocean Territory
+Region: Africa
+Poblacion: 3000
+
+Nombre oficial: Republic of Rwanda
+Region: Africa
+Poblacion: 12952209
+
+Nombre oficial: French Republic
+Region: Europe
+Poblacion: 67391582
+
+Nombre oficial: Republic of Mauritius
+Region: Africa
+Poblacion: 1265740
+
+Nombre oficial: Republic of Azerbaijan
+Region: Asia
+Poblacion: 10110116
+
+Nombre oficial: Republic of Vanuatu
+Region: Oceania
+Poblacion: 307150
+
+Nombre oficial: Republic of Tajikistan
+Region: Asia
+Poblacion: 9537642
+
+Nombre oficial: Republic of Suriname
+Region: Americas
+Poblacion: 586634
+
+Nombre oficial: Republic of Angola
+Region: Africa
+Poblacion: 32866268
+
+Nombre oficial: Republic of Poland
+Region: Europe
+Poblacion: 37950802
+
+Nombre oficial: Republic of Sierra Leone
+Region: Africa
+Poblacion: 7976985
+
+Nombre oficial: New Caledonia
+Region: Oceania
+Poblacion: 271960
+
+Nombre oficial: French Polynesia
+Region: Oceania
+Poblacion: 280904
+
+Nombre oficial: Russian Federation
+Region: Europe
+Poblacion: 144104080
+
+Nombre oficial: Kingdom of Denmark
+Region: Europe
+Poblacion: 5831404
+
+Nombre oficial: Territory of the French Southern and Antarctic Lands
+Region: Antarctic
+Poblacion: 400
+
+Nombre oficial: Republic of Latvia
+Region: Europe
+Poblacion: 1901548
+
+Nombre oficial: Kingdom of the Netherlands
+Region: Europe
+Poblacion: 16655799
+
+Nombre oficial: Kingdom of Bhutan
+Region: Asia
+Poblacion: 771612
+
+Nombre oficial: Republic of Moldova
+Region: Europe
+Poblacion: 2617820
+
+Nombre oficial: Grand Duchy of Luxembourg
+Region: Europe
+Poblacion: 632275
+
+Nombre oficial: Saint Pierre and Miquelon
+Region: Americas
+Poblacion: 6069
+
+Nombre oficial: Isle of Man
+Region: Europe
+Poblacion: 85032
+
+Nombre oficial: Kingdom of Morocco
+Region: Africa
+Poblacion: 36910558
+
+Nombre oficial: Principality of Monaco
+Region: Europe
+Poblacion: 39244
+
+Nombre oficial: Islamic Republic of Pakistan
+Region: Asia
+Poblacion: 220892331
+
+Nombre oficial: Saint Martin
+Region: Americas
+Poblacion: 38659
+
+Nombre oficial: Republic of South Africa
+Region: Africa
+Poblacion: 59308690
+
+Nombre oficial: Hellenic Republic
+Region: Europe
+Poblacion: 10715549
+
+Nombre oficial: Jamaica
+Region: Americas
+Poblacion: 2961161
+
+Nombre oficial: Kingdom of Belgium
+Region: Europe
+Poblacion: 11555997
+
+Nombre oficial: Principality of Liechtenstein
+Region: Europe
+Poblacion: 38137
+
+Nombre oficial: Romania
+Region: Europe
+Poblacion: 19286123
+
+Nombre oficial: Republic of Iraq
+Region: Asia
+Poblacion: 40222503
+
+Nombre oficial: Vatican City State
+Region: Europe
+Poblacion: 451
+
+Nombre oficial: Principality of Andorra
+Region: Europe
+Poblacion: 77265
+
+Nombre oficial: Saint Vincent and the Grenadines
+Region: Americas
+Poblacion: 110947
+
+Nombre oficial: Republic of Belarus
+Region: Europe
+Poblacion: 9398861
+
+Nombre oficial: Republic of Serbia
+Region: Europe
+Poblacion: 6908224
+
+Nombre oficial: Grenada
+Region: Americas
+Poblacion: 112519
+
+Nombre oficial: Republic of Namibia
+Region: Africa
+Poblacion: 2540916
+
+Nombre oficial: Macao Special Administrative Region of the People's Republic of China
+Region: Asia
+Poblacion: 649342
+
+Nombre oficial: Sint Maarten
+Region: Americas
+Poblacion: 40812
+
+Nombre oficial: Burkina Faso
+Region: Africa
+Poblacion: 20903278
+
+Nombre oficial: Territory of Christmas Island
+Region: Oceania
+Poblacion: 2072
+
+Nombre oficial: Guam
+Region: Oceania
+Poblacion: 168783
+
+Nombre oficial: Republic of Kenya
+Region: Africa
+Poblacion: 53771300
+
+Nombre oficial: Republic of Uganda
+Region: Africa
+Poblacion: 45741000
+
+Nombre oficial: Saint Lucia
+Region: Americas
+Poblacion: 183629
+
+Nombre oficial: Republic of Albania
+Region: Europe
+Poblacion: 2837743
+
+Nombre oficial: Turkmenistan
+Region: Asia
+Poblacion: 6031187
+
+Nombre oficial: Tunisian Republic
+Region: Africa
+Poblacion: 11818618
+
+Nombre oficial: Federal Republic of Germany
+Region: Europe
+Poblacion: 83240525
+
+Nombre oficial: Bonaire, Sint Eustatius and Saba
+Region: Americas
+Poblacion: 25987
+
+Nombre oficial: Kingdom of Saudi Arabia
+Region: Asia
+Poblacion: 34813867
+
+Nombre oficial: Commonwealth of the Bahamas
+Region: Americas
+Poblacion: 393248
+
+Nombre oficial: Dominican Republic
+Region: Americas
+Poblacion: 10847904
+
+Nombre oficial: Réunion Island
+Region: Africa
+Poblacion: 840974
+
+Nombre oficial: Socialist Republic of Vietnam
+Region: Asia
+Poblacion: 97338583
+
+Nombre oficial: Islamic Republic of Iran
+Region: Asia
+Poblacion: 83992953
+
+Nombre oficial: United Republic of Tanzania
+Region: Africa
+Poblacion: 59734213
+
+Nombre oficial: Montserrat
+Region: Americas
+Poblacion: 4922
+
+Nombre oficial: Republic of Niger
+Region: Africa
+Poblacion: 24206636
+
+Nombre oficial: Kingdom of Norway
+Region: Europe
+Poblacion: 5379475
+
+Nombre oficial: People's Republic of Bangladesh
+Region: Asia
+Poblacion: 164689383
+
+Nombre oficial: Japan
+Region: Asia
+Poblacion: 125836021
+
+Nombre oficial: State of Kuwait
+Region: Asia
+Poblacion: 4270563
+
+Nombre oficial: Republic of Croatia
+Region: Europe
+Poblacion: 4047200
+
+Nombre oficial: Faroe Islands
+Region: Europe
+Poblacion: 48865
+
+Nombre oficial: Republic of Honduras
+Region: Americas
+Poblacion: 9904608
+
+Nombre oficial: Territory of Norfolk Island
+Region: Oceania
+Poblacion: 2302
+
+Nombre oficial: Republic of Panama
+Region: Americas
+Poblacion: 4314768
+
+Nombre oficial: American Samoa
+Region: Oceania
+Poblacion: 55197
+
+Nombre oficial: Federated States of Micronesia
+Region: Oceania
+Poblacion: 115021
+
+Nombre oficial: Falkland Islands
+Region: Americas
+Poblacion: 2563
+
+Nombre oficial: Saint Helena, Ascension and Tristan da Cunha
+Region: Africa
+Poblacion: 53192
+
+Nombre oficial: Republic of Turkey
+Region: Asia
+Poblacion: 84339067
+
+Nombre oficial: Republic of Costa Rica
+Region: Americas
+Poblacion: 5094114
+
+Nombre oficial: State of Libya
+Region: Africa
+Poblacion: 6871287
+
+Nombre oficial: Republic of the Philippines
+Region: Asia
+Poblacion: 109581085
+
+Nombre oficial: Republic of San Marino
+Region: Europe
+Poblacion: 33938
+
+Nombre oficial: Cook Islands
+Region: Oceania
+Poblacion: 18100
+
+Nombre oficial: Virgin Islands of the United States
+Region: Americas
+Poblacion: 106290
+
+Nombre oficial: Republic of Nicaragua
+Region: Americas
+Poblacion: 6624554
+
+Nombre oficial: Republic of Bulgaria
+Region: Europe
+Poblacion: 6927288
+
+Nombre oficial: Hungary
+Region: Europe
+Poblacion: 9749763
+
+Nombre oficial: Republic of Djibouti
+Region: Africa
+Poblacion: 988002
+
+Nombre oficial: Republic of Guinea-Bissau
+Region: Africa
+Poblacion: 1967998
+
+Nombre oficial: Nation of Brunei, Abode of Peace
+Region: Asia
+Poblacion: 437483
+
+Nombre oficial: Republic of Kazakhstan
+Region: Asia
+Poblacion: 18754440
+
+Nombre oficial: Independent and Sovereign Republic of Kiribati
+Region: Oceania
+Poblacion: 119446
+
+Nombre oficial: Bailiwick of Jersey
+Region: Europe
+Poblacion: 100800
+
+Nombre oficial: Kingdom of Tonga
+Region: Oceania
+Poblacion: 105697
+
+Nombre oficial: Republic of Madagascar
+Region: Africa
+Poblacion: 27691019
+
+Nombre oficial: Democratic People's Republic of Korea
+Region: Asia
+Poblacion: 25778815
+
+Nombre oficial: Kingdom of Eswatini
+Region: Africa
+Poblacion: 1160164
+
+Nombre oficial: Kingdom of Sweden
+Region: Europe
+Poblacion: 10353442
+
+Nombre oficial: Federal Republic of Nigeria
+Region: Africa
+Poblacion: 206139587
+
+Nombre oficial: Republic of Trinidad and Tobago
+Region: Americas
+Poblacion: 1399491
